@@ -1,0 +1,8 @@
+# all pycache
+locallibrary/__pycache__
+locallibrary/.env
+catalog/__pycache__
+*.env
+__pycache__
+*.pyc 
+
